@@ -170,5 +170,3 @@ El informe final del proyecto está disponible en [/docs/informe_final.pdf](http
 # Autor
 Daniel Armando Valdez Reyes - 21240
 
-# Licencia
-MIT
