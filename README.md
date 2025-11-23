@@ -26,7 +26,7 @@ Responde a la necesidad de digitalizar procesos agroindustriales ante el crecimi
 
 1) Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/Danval-003/PG-2025-21240.git
 cd repositorio
 ```
 
