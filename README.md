@@ -160,3 +160,15 @@ React Native (SQLite)  <--offline-->  Cola de envíos  --(HTTP/JWT)-->  NestJS (
 - Documentación API (local): `http://localhost:3000/api` (Swagger UI) y `http://localhost:3000/api-json` (OpenAPI JSON)
 - Backend: ver `src/api/README.md`
 - Móvil: ver `src/mobile/README.md`
+  
+# Demo
+El video demostrativo se encuentra en [/demo/demo.mp4](https://github.com/Danval-003/PG-2025-21240/blob/main/demo/demo.mp4)
+
+Documentación
+El informe final del proyecto está disponible en [/docs/informe_final.pdf](https://github.com/Danval-003/PG-2025-21240/blob/main/docs)
+
+Autor
+Daniel Armando Valdez Reyes - 21240
+
+Licencia
+MIT
